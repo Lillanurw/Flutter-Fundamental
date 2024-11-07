@@ -7,3 +7,6 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 ![alt text](image.png)
+
+PRAKTIKUM
+![alt text](image-1.png)
